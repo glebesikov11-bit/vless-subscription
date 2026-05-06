@@ -2,10 +2,8 @@
   {
     "id": "20977f40-60c7-4eab-a788-3841afb3429e",
     "name": "1164187366",
-    "expire_at": null,
+    "expire_at": "2026-08-05",
     "premium_until": null,
-    "chat_id": 1164187366,
-    "pending_tarif": "3 \u043c\u0435\u0441\u044f\u0446\u0430 (290 \u0440\u0443\u0431)",
-    "premium_pending": false
+    "chat_id": 1164187366
   }
 ]
